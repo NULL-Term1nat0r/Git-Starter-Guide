@@ -39,7 +39,7 @@ You can check again with command "git status" if those changes applied to your s
 Checkout the following video to see how I stage my Tutorial files for committing:
 
 Step 1: check out the stagin area via the "git status" command.
----
+
 Step 2: adding the folder "Git-Tutorial" to the staging area by using the "git add" command
 
 Step 3: using git status again to check if the change is applied to the staging area
