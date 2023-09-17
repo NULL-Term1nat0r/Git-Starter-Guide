@@ -24,3 +24,8 @@ Before using Git, it's a good idea to set your name and email address, which wil
 ```bash
 git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
+```
+
+## Additional Programs to enable an easier workflow for GitHub
+
+[GitHub CLI](https://github.com/NULL-Term1nat0r/GitHub_CLI_Guide.git)
