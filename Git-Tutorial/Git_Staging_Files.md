@@ -36,7 +36,7 @@ git restore --cached .
 ```
 You can check again with command "git status" if those changes applied to your staging area. 
 
-##Checkout the following video to see how I stage my Tutorial files for committing:
+Checkout the following video to see how I stage my Tutorial files for committing:
 
 Step 1: check out the stagin area via the "git status" command.
 ---
