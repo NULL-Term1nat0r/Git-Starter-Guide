@@ -26,6 +26,8 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 ```
 
+## How Git works
+
 ## Additional Programs to enable an easier workflow for GitHub
 
 [GitHub CLI](https://github.com/NULL-Term1nat0r/GitHub_CLI_Guide.git)
