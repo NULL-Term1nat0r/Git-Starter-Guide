@@ -33,3 +33,7 @@ blabla
 ## Additional Programs to enable an easier workflow for GitHub
 
 [GitHub CLI](https://github.com/NULL-Term1nat0r/GitHub_CLI_Guide.git)
+
+![71-b0emZDLL _AC_UF894,1000_QL80_](https://github.com/NULL-Term1nat0r/Git-Starter-Guide/assets/109620716/680ab953-e52f-4073-a409-04b1f1baac1a)
+
+
